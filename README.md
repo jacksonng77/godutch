@@ -1,3 +1,3 @@
 # Go Dutch
 
-Read moree about Go-Dutch on my blog post here: https://jacksonng.org/?q=going-dutch-smart-contract
+Read more about Go-Dutch on my blog post here: https://jacksonng.org/?q=going-dutch-smart-contract
